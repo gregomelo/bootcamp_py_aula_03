@@ -1,9 +1,0 @@
-{
-    "python.formatting.provider": "black",
-    "editor.formatOnSave": true,
-    "python.formatting.blackPath": "./venv/bin/black",
-    "python.formatting.autopep8Path": "./venv/bin/autopep8",
-    "python.linting.enabled": true,
-    "python.linting.autopep8Enabled": true,
-    "python.linting.pylintEnabled": false
-}
